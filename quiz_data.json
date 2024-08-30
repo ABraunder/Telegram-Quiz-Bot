@@ -1,0 +1,52 @@
+[
+    {
+      "question": "Что такое Python?",
+      "options": ["Язык программирования", "Тип данных", "Музыкальный инструмент", "Змея на английском"],
+      "correct_option": 0
+    },
+    {
+      "question": "Какой тип данных используется для хранения целых чисел?",
+      "options": ["int", "float", "str", "natural"],
+      "correct_option": 0
+    },
+    {
+      "question": "Как получить данные от пользователя?",
+      "options": ["read()", "get()", "input()", "readLine()"],
+      "correct_option": 2
+    },
+    {
+      "question": "Какая функция выводит что-либо в консоль (на экран монитора)?",
+      "options": ["out()", "log()", "write()", "print()"],
+      "correct_option": 3
+    },
+    {
+      "question": "Переменная int:",
+      "options": ["вещественная переменная", "символьная строка", "логическая переменная", "целая переменная"],
+      "correct_option": 3
+    },
+    {
+      "question": "Переменная float:",
+      "options": ["вещественная переменная", "символьная строка", "логическая переменная", "целая переменная"],
+      "correct_option": 0
+    },
+    {
+      "question": "a=5\nb=a+5\na=b*100\nprint(a)\nЧто будет в результате выполнения программы: ",
+      "options": ["25", "250", "2500", "1000"],
+      "correct_option": 3
+    },
+    {
+      "question": "Что будет в результате выполнения следующего действия print (23 % 2)",
+      "options": ["1", "10", "0"],
+      "correct_option": 0
+    },
+    {
+      "question": "Результатом вычисления print (25 // 3) будет число:",
+      "options": ["8", "10", "8.3"],
+      "correct_option": 0
+    },
+    {
+      "question": "a = int(input())\nb = int(input())\nif a < b:\n    print(a)\nelse:\n   print(b)",
+      "options": ["10", "20", "30", "-10"],
+      "correct_option": 0
+    }
+  ]
